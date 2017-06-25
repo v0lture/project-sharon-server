@@ -1,0 +1,67 @@
+body {
+    background: #323232;
+    color: white;
+}
+
+.accent {
+    background: #4CAF50;
+}
+
+.accent-text {
+    color: #4CAF50;
+}
+
+.topnotify > * > a {
+    color: black;
+    text-transform: uppercase;
+}
+
+a.brand-logo {
+    padding-left: 15px;
+    color: white;
+}
+
+p {
+    margin: 0;
+}
+
+.topnotify {
+    width: 100%;
+    padding: 5px;
+    background: #00C853;
+    color: black;
+}
+
+.fullheight {
+    height: calc(100vh - 98px);
+    overflow-y: auto;
+    width: 100%;
+}
+
+.sidebar {
+    background: #424242;
+}
+
+.row {
+    margin: 0;
+}
+
+.col.s4, .col.s8, .col.s12 {
+    padding: 0;
+}
+
+.tabs {
+    background: #212121;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: #00C853;
+}
+
+.tabs .tab a {
+    color: #4CAF50;
+}
+
+.tabs .indicator {
+    background: #00C853;
+}
